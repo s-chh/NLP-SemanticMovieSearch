@@ -1,0 +1,1 @@
+[{"Event": "travel", "Score": 0.35505}, {"Event": "develop", "Score": 0.25186}, {"Event": "perform", "Score": 0.22713}, {"Event": "sell", "Score": 0.21493}, {"Event": "learn", "Score": 0.09416}, {"Event": "realize", "Score": 0.06299}, {"Event": "be", "Score": 0.00105}]

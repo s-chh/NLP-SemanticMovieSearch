@@ -1,0 +1,1 @@
+[{"Event": "divide", "Score": 0.27362}, {"Event": "deal", "Score": 0.14726}, {"Event": "face", "Score": 0.1243}, {"Event": "cause", "Score": 0.09366}, {"Event": "speak", "Score": 0.07464}, {"Event": "discover", "Score": 0.04857}, {"Event": "try", "Score": 0.04611}, {"Event": "find", "Score": 0.02873}, {"Event": "make", "Score": 0.01645}, {"Event": "leave", "Score": 0.00995}]

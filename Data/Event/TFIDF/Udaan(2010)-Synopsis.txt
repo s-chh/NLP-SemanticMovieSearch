@@ -1,0 +1,1 @@
+[{"Event": "curse", "Score": 0.37221}, {"Event": "fuck", "Score": 0.35193}, {"Event": "stick", "Score": 0.16997}, {"Event": "abandon", "Score": 0.13069}, {"Event": "eat", "Score": 0.11875}, {"Event": "sleep", "Score": 0.116}, {"Event": "get", "Score": 0.03869}, {"Event": "go", "Score": 0.02428}, {"Event": "take", "Score": 0.00832}]
