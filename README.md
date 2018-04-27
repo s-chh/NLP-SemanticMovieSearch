@@ -14,6 +14,6 @@ Check the readme file for properly configuring KnowledgeParser
 
 Absolute path needs to be configured in Main.py, line 10
 
-3. Running MongoDB Server
+3. MongoDB Server
 
-Run buildDB function on the first run to extract Entity-Mention relationships from the data and store it in MongoDB
+Start MongoDB server and run buildDB function on the first run to extract Entity-Mention relationships from the data
