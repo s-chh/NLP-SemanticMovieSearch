@@ -3,6 +3,7 @@
 Dependencies:
 Requires Knowledge Parser and StanfordCoreNLP
 
+
 Knowledge Parser:
 Download Link for KnowledgeParser: https://github.com/arpit7123/K-Parser-JAR
 
