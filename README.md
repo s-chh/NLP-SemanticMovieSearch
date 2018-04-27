@@ -1,7 +1,7 @@
 # NLP-SemanticMovieSearch
 
 Dependencies:
-Requires Knowledge Parser and StanfordCoreNLP
+Requires Knowledge Parser, StanfordCoreNLP and MongoDB
 
 
 1. Knowledge Parser: Download Link for KnowledgeParser: https://github.com/arpit7123/K-Parser-JAR
@@ -14,3 +14,6 @@ Check the readme file for properly configuring KnowledgeParser
 
 Absolute path needs to be configured in Main.py, line 10
 
+3. Running MongoDB Server
+
+Run buildDB function on the first run to extract Entity-Mention relationships from the data and store it in MongoDB
